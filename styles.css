@@ -4,7 +4,7 @@
 }
 body{
     background-image: url("https://d3i6fh83elv35t.cloudfront.net/newshour/app/uploads/2015/10/BobRoss-1024x762.jpg");
-    background-size: 2000px 3000px;
+    background-size: 3000px 4000px;
     background-repeat: no-repeat;
     text-shadow: 2px 2px 5px white;
 }
@@ -117,4 +117,44 @@ text-decoration: underline;
     height: 300px;
     width: 600px;
 }
+.LikelyVoters{
+         position: absolute;
+    left: 550px;
+    bottom: -1550px;
+text-align: center;
+    height: 300px;
+    width: 400px;
 
+}
+.Squirrel {
+        position: absolute;
+    left: 200px;
+    bottom: -1630px;
+    height: 300px;
+    width: 400px;
+    border: 4px solid black;
+}
+.SquirrelText {
+        position: absolute;
+    left: 700px;
+    bottom: -1730px;
+    height: 300px;
+    width: 400px;
+
+}
+.SpeakingTree {
+        position: absolute;
+    left: 200px;
+    bottom: -2030px;
+    height: 300px;
+    width: 400px;
+    border: 4px solid black;
+}
+.TreeText {
+        position: absolute;
+    left: 700px;
+    bottom: -2130px;
+    height: 300px;
+    width: 400px;
+ 
+}
